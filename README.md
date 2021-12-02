@@ -14,8 +14,7 @@
 ## :mag_right: Available labels
 
 <p float="center">
-    <img src="documentation/img/classesTableHex.png" width="49%" title="Available classes table"/>
-    <img src="documentation/images/bldID62.png" width="49%" title="bld id 62"/>
+    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldID60table.png" width="89%" title="Available classes table"/>
 </p>
 
 -download button
