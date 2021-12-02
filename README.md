@@ -13,6 +13,11 @@
 
 here photo with table + photo of a bld
 
+<p float="center">
+    <img src="documentation/img/classesTableHex.PNG" width="49%" title="Available classes table"/>
+    <img src="documentation/images/bldID62.PNG" width="49%" title="bld id 62"/>
+</p>
+
 ## :bar_chart: Statistics
 
 ## :construction_worker: Settings file and labeling process
