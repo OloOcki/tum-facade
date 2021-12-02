@@ -1,7 +1,6 @@
+![](https://github.com/OloOcki/tum-facade/blob/main/img/intro.gif)
 # :cityscape: TUM - FACADE
-## Benchmark for semantic facade segmentation on MLS point clouds 
-
-here moving img
+**Benchmark for semantic facade segmentation on MLS point clouds** 
 
 ## Highlights
 
