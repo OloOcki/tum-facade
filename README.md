@@ -15,7 +15,7 @@
 
 <p float="center">
     <img src="https://github.com/OloOcki/tum-facade/blob/main/img/classesTableHex.PNG" width="49%" title="Available classes table"/>
-    <img src="documentation/images/bldID62.png" width="49%" title="bld id 62"/>
+    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldID62.PNG" width="49%" title="bld id 62"/>
 </p>
 
 -download button
