@@ -7,7 +7,7 @@
 
 - MLS point clouds with **facade-level labels** (i.e., windows, doors, balconies, moldings, etc.)
 - **14 annotated facades** and 15 non-annotated for further benchmark extension or testing
-- total no of annotated points
+- **~118 mln** annotated points
 - in **local** and **global** coordinate reference system
 - settings file for **adding your own data**
 
