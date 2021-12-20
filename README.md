@@ -3,6 +3,8 @@
 
 ![](https://github.com/OloOcki/tum-facade/blob/main/img/intro.gif)
 
+[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://dataserv.ub.tum.de/index.php/s/m1636761.001)
+
 ## :star2: Highlights :star2:
 
 - MLS point clouds with **facade-level labels** (i.e., windows, doors, balconies, moldings, etc.)
@@ -10,6 +12,10 @@
 - **~118 mln** annotated points
 - in **local** and **global** coordinate reference system
 - settings file for **adding your own data**
+
+[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://dataserv.ub.tum.de/index.php/s/m1636761.001) download
+[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://dataserv.ub.tum.de/index.php/s/m1636761.001) bibtex cite dataset
+[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://dataserv.ub.tum.de/index.php/s/m1636761.001) bibtex cite paper
 
 ## :mag_right: Available labels
 
@@ -29,10 +35,12 @@
 -link to settings
 -link to Hitachi
 
-## :mortar_board: Paper
+## :mortar_board: Publications
 
 The introduction of this dataset and overview of the point clouds benchmark landscape are available in the linked paper.
-If you use this dataset please cite this paper:
+If you use this dataset please cite either
+
+1. The paper
 
 ```plain
 @article{wysocki,
@@ -49,6 +57,22 @@ If you use this dataset please cite this paper:
   url = {...}
 }
 ```
+2. The dataset
+
+```plain
+@misc{mediatum1636761, 
+	author = {Wysocki, Olaf  and Zhang, Jiarui  and Stilla, Uwe},
+	title = {TUM-FAÇADE},
+	publisher = {Technical University of Munich},
+	url = {https://mediatum.ub.tum.de/1636761},
+	type = {Dataset},
+	year = {2021},
+	doi = {10.14459/2021mp1636761.001},
+	keywords = {MLS point clouds; semantic segmentation, 3D reconstruction, facade reconstruction},
+	language = {en},
+    
+```
+
 
 ## :handshake: Acknowledgments 
 
