@@ -21,7 +21,6 @@
     <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldID60table.png" width="89%" title="Available classes table"/>
 </p>
 
--download button
 
 ## :bar_chart: Statistics
 
