@@ -31,17 +31,17 @@
 </p>
 
 
-## :construction_worker: Settings file and labeling process
+## :construction_worker: Build-upon the dataset
 
--link to settings
--link to Hitachi
+- Annotate the outstanding building point clouds in the dataset, contact us (e.g., olaf.wysocki@tum.de), and extend the repository of the open façades!
+- **OR** use our open-source-based approach and create a new open point cloud dataset!
 
 ## :mortar_board: Publications
 
-The introduction of this dataset and overview of the point clouds benchmark landscape are available in the linked paper.
-If you use this dataset please cite either
+The comprehensive description of this dataset, how we achieved it, and the landscape of the point clouds benchmarks are available in the linked paper.
+If you use this dataset please cite either:
 
-1. The paper
+1. The paper (TBP)
 
 ```plain
 @article{wysocki,
@@ -77,7 +77,8 @@ If you use this dataset please cite either
 
 ## :handshake: Acknowledgments 
 
--Jiarui Zhang
--TUM-MLS dataset
--Hitachi labeling tool
+This work wouldn't be possible without [Zhu et al.](https://doi.org/10.3390/rs12111875) and their excellent [TUM-MLS-2016 dataset](https://www.pf.bgu.tum.de/pub/testdaten.html). Thank you!    
+We would like to cordially thank [Jiarui Zhang](https://de.linkedin.com/in/jiarui-zhang-20bb3618b) for his diligent work in the annotation process. 
+Last but not least, thank you Hitachi group for releasing the  [Semantic Segmentation Editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) as a user-friendly open-source tool that we could easily adapt to our needs. 
+
 
