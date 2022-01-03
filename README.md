@@ -1,5 +1,5 @@
 # :cityscape: TUM - FAÇADE :cityscape:
-**Benchmark for semantic facade segmentation on MLS point clouds** 
+**Benchmark for semantic façade segmentation on MLS point clouds** 
 
 ![](https://github.com/OloOcki/tum-facade/blob/main/img/introGif.gif)
 
@@ -15,19 +15,21 @@
 - in **local** and **global** coordinate reference system
 - settings file for **adding your own data**
 
-## :mag_right: Available labels
+## :mag_right: Annotated dataset
 
 ![](https://github.com/OloOcki/tum-facade/blob/main/img/arch2022gifDataset.gif)
 
 <p float="center">
-    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldID60table.png" width="89%" title="Available classes table"/>
+    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldID60table.png" width="95%" title="Available classes table"/>
 </p>
 
 
 ## :bar_chart: Statistics
 
-- no fo annotated points
-- bar (?) chart with data distribution
+<p float="center">
+    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/distributionChart.png" width="100%" title="Distribution of annotated points"/>
+</p>
+
 
 ## :construction_worker: Settings file and labeling process
 
