@@ -78,7 +78,7 @@ If you use this dataset please cite either:
 ## :handshake: Acknowledgments 
 
 This work wouldn't be possible without [Zhu et al.](https://doi.org/10.3390/rs12111875) and their excellent [TUM-MLS-2016 dataset](https://www.pf.bgu.tum.de/pub/testdaten.html). Thank you!    
-We would like to cordially thank [Jiarui Zhang](https://de.linkedin.com/in/jiarui-zhang-20bb3618b) for his diligent work in the annotation process. 
+We are indebted to [Jiarui Zhang](https://de.linkedin.com/in/jiarui-zhang-20bb3618b) for his diligent work in the annotation process. 
 Last but not least, thank you Hitachi group for releasing the  [Semantic Segmentation Editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) as a user-friendly open-source tool that we could easily adapt to our needs. 
 
 
