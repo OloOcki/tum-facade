@@ -38,7 +38,7 @@
 
 ## :mortar_board: Publications
 
-The comprehensive description of this dataset, how we achieved it, and the landscape of the point clouds benchmarks are available in the linked paper.
+In the linked paper you will find the comprehensive description of this dataset, how we achieved it, and the landscape of the point cloud benchmark datasets.
 If you use this dataset please cite either:
 
 1. The paper (TBP)
