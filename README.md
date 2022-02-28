@@ -41,10 +41,10 @@
 In the linked paper you will find the comprehensive description of this dataset, how we achieved it, and the landscape of the point cloud benchmark datasets.
 If you use this dataset please cite either:
 
-1. The paper (TBP)
+1. The paper
 
 ```plain
-	@article{wysockiTUMFACADE,
+@article{wysockiTUMFACADE,
 	author = {Wysocki, O. and Hoegner, L. and Stilla, U.},
 	title = {TUM-FAÇADE: REVIEWING AND ENRICHING POINT CLOUD BENCHMARKS FOR FAÇADE SEGMENTATION},
 	journal = {The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
