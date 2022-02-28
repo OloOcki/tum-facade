@@ -44,19 +44,15 @@ If you use this dataset please cite either:
 1. The paper (TBP)
 
 ```plain
-@article{wysocki,
-  title = {...},
-  author = {...},
-  journal = {...},
-  year = {2022},
-  month = ...,
-  volume = {...},
-  number = {...},
-  pages = {...},
-  publisher = {...},
-  doi = {...},
-  url = {...}
-}
+	@article{wysockiTUMFACADE,
+	author = {Wysocki, O. and Hoegner, L. and Stilla, U.},
+	title = {TUM-FAÇADE: REVIEWING AND ENRICHING POINT CLOUD BENCHMARKS FOR FAÇADE SEGMENTATION},
+	journal = {The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+	volume = {XLVI-2/W1-2022},
+	year = {2022},
+	pages = {529--536},
+	url = {https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLVI-2-W1-2022/529/2022/},
+	doi = {10.5194/isprs-archives-XLVI-2-W1-2022-529-2022},
 ```
 2. The dataset
 
