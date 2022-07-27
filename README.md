@@ -30,7 +30,7 @@
 </p>
 
 <p float="center">
-    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID23.PNG" width="95%" title="building id ...23"/>
+    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID23.png" width="95%" title="building id ...23"/>
 </p>
 
 <p float="center">
