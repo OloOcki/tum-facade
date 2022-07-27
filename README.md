@@ -23,6 +23,28 @@
     <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldID60table.png" width="95%" title="Available classes table"/>
 </p>
 
+## :bar_chart: Examples
+
+<p float="center">
+    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID22.PNG" width="95%" title="building id ...22"/>
+</p>
+
+<p float="center">
+    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID23.PNG" width="95%" title="building id ...23"/>
+</p>
+
+<p float="center">
+    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID60.PNG" width="95%" title="building id ...60"/>
+</p>
+
+<p float="center">
+    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID62.PNG" width="95%" title="building id ...62"/>
+</p>
+
+<p float="center">
+    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID81_a.PNG" width="95%" title="building id ...81"/>
+</p>
+
 
 ## :bar_chart: Statistics
 
