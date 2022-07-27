@@ -23,7 +23,7 @@
     <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldID60table.png" width="95%" title="Available classes table"/>
 </p>
 
-## :bar_chart: Examples
+## :camera: Examples
 
 ### BLD_22
 <p float="center">
