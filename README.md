@@ -23,33 +23,46 @@
     <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldID60table.png" width="95%" title="Available classes table"/>
 </p>
 
-## :camera: Examples
+## :camera: Buildings in the dataset
 
-### BLD_22
+### Training 
+
+#### BLD_22
 <p float="center">
     <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID22.PNG" width="95%" title="building id ...22"/>
 </p>
 
-### BLD_23
+#### BLD_23
 <p float="center">
     <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID23.png" width="95%" title="building id ...23"/>
 </p>
 
-### BLD_60
+#### BLD_60
 <p float="center">
     <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID60.PNG" width="95%" title="building id ...60"/>
 </p>
 
-### BLD_62
+#### BLD_62
 <p float="center">
     <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID62.PNG" width="95%" title="building id ...62"/>
 </p>
 
-### BLD_81
+#### BLD_81
 <p float="center">
     <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID81_a.PNG" width="95%" title="building id ...81"/>
 </p>
 
+### Test
+
+#### BLD_58
+<p float="center">
+    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID58.png" width="95%" title="building id ...58"/>
+</p>
+
+#### BLD_59
+<p float="center">
+    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID59.png" width="95%" title="building id ...59"/>
+</p>
 
 ## :bar_chart: Statistics
 
