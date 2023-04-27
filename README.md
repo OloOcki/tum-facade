@@ -26,6 +26,11 @@
 
 ## :camera: Buildings in the dataset
 
+#### Overview
+<p align="center">
+    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/overview.PNG" width="95%" title="overview"/>
+</p>
+
 #### BLD_22
 <p align="center">
     <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID22.PNG" width="95%" title="building id ...22"/>
