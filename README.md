@@ -20,53 +20,51 @@
 
 ![](https://github.com/OloOcki/tum-facade/blob/main/img/arch2022gifDataset.gif)
 
-<p float="center">
+<p align="center">
     <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldID60table.png" width="95%" title="Available classes table"/>
 </p>
 
 ## :camera: Buildings in the dataset
 
 #### BLD_22
-<p float="center">
+<p align="center">
     <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID22.PNG" width="95%" title="building id ...22"/>
 </p>
 
 #### BLD_23
-<p float="center">
+<p align="center">
     <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID23.png" width="95%" title="building id ...23"/>
 </p>
 
 #### BLD_60
-<p float="center">
+<p align="center">
     <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID60.PNG" width="95%" title="building id ...60"/>
 </p>
 
 #### BLD_62
-<p float="center">
+<p align="center">
     <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID62.PNG" width="95%" title="building id ...62"/>
 </p>
 
 #### BLD_81
-<p float="center">
+<p align="center">
     <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID81_a.PNG" width="95%" title="building id ...81"/>
 </p>
 
 #### BLD_58
-<p float="center">
+<p align="center">
     <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID58.png" width="95%" title="building id ...58"/>
 </p>
 
 #### BLD_59
-<p float="center">
+<p align="center">
     <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID59.png" width="95%" title="building id ...59"/>
 </p>
 
-## :bar_chart: Statistics
-
-<p float="center">
-    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/distributionChart.png" width="100%" title="Distribution of annotated points"/>
+#### BLD_57
+<p align="center">
+    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID57.PNG" width="95%" title="building id ...57"/>
 </p>
-
 
 ## :construction_worker: Build-upon the dataset
 
