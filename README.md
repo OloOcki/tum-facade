@@ -26,8 +26,6 @@
 
 ## :camera: Buildings in the dataset
 
-### Training 
-
 #### BLD_22
 <p float="center">
     <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID22.PNG" width="95%" title="building id ...22"/>
@@ -52,8 +50,6 @@
 <p float="center">
     <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID81_a.PNG" width="95%" title="building id ...81"/>
 </p>
-
-### Test
 
 #### BLD_58
 <p float="center">
