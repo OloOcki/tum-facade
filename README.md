@@ -1,5 +1,8 @@
 # :cityscape: TUM - FAÇADE :cityscape:
 **Benchmark for semantic façade segmentation on MLS point clouds** 
+<p align="left">
+    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/tumfacade_logo.png" width="15%" title="logo"/>
+</p>
 
 ![](https://github.com/OloOcki/tum-facade/blob/main/img/introGif.gif)
 
@@ -114,9 +117,7 @@ If you use this dataset please cite either:
 ## :handshake: Acknowledgments 
 
 This work wouldn't be possible without [Zhu et al.](https://doi.org/10.3390/rs12111875) and their excellent [TUM-MLS-2016 dataset](https://www.pf.bgu.tum.de/pub/testdaten.html). Thank you!    
-We are indebted to [Jiarui Zhang](https://de.linkedin.com/in/jiarui-zhang-20bb3618b) for his diligent work in the annotation process. 
+We are indebted to [Jiarui Zhang](https://de.linkedin.com/in/jiarui-zhang-20bb3618b) and [Yue Tan](https://de.linkedin.com/in/yue-tan-98967b204/en?trk=people-guest_people_search-card) for their diligent work in the annotation process. 
 Thank you Hitachi group for releasing the [Semantic Segmentation Editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) as a user-friendly open-source tool that we could easily adapt to our needs. 
 
 Last but not least, thank you [Matrone et al.](https://doi.org/10.5194/isprs-archives-XLIII-B2-2020-1419-2020) for the inspiring [ArCH dataset](http://archdataset.polito.it/)! Go ahead, check it out, and test your algorithms there too!
-
-
