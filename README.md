@@ -66,13 +66,6 @@
     <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID57.PNG" width="95%" title="building id ...57"/>
 </p>
 
-## :bar_chart: Statistics
-
-<p float="center">
-    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/distributionChart.png" width="100%" title="Distribution of annotated points"/>
-</p>
-
-
 ## :construction_worker: Build-upon the dataset
 
 - Annotate the outstanding building point clouds in the dataset, contact us (e.g., olaf.wysocki@tum.de), and extend the repository of the open façades!
