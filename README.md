@@ -18,7 +18,7 @@
 
 ## :mag_right: Annotated dataset
 
-![](https://github.com/OloOcki/tum-facade/blob/main/img/arch2022gifDataset.gif)
+![](https://github.com/OloOcki/tum-facade/blob/main/img/tumfacadegif.gif)
 
 <p align="center">
     <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldID60table.png" width="95%" title="Available classes table"/>
