@@ -6,9 +6,9 @@
 
 ![](https://github.com/OloOcki/tum-facade/blob/main/img/introGif.gif)
 
-[<img src="https://github.com/OloOcki/tum-facade/blob/main/img/button1.png" width="150"/>](https://dataserv.ub.tum.de/index.php/s/m1636761.002?path=%2Ftum-facade)
+[<img src="https://github.com/OloOcki/tum-facade/blob/main/img/button1.png" width="150"/>](https://dataserv.ub.tum.de/index.php/s/m1636761.003)
 [<img src="https://github.com/OloOcki/tum-facade/blob/main/img/button2.png" width="150"/>](https://mediatum.ub.tum.de/export/1636761/bibtex)
-[<img src="https://github.com/OloOcki/tum-facade/blob/main/img/button3.png" width="150"/>](https://mediatum.ub.tum.de/1636761) 
+[<img src="https://github.com/OloOcki/tum-facade/blob/main/img/button3.png" width="150"/>](https://mediatum.ub.tum.de/1636761?v=3) 
 
 ## :star2: Highlights :star2:
 
@@ -84,7 +84,7 @@
 In the linked paper you will find the comprehensive description of this dataset, how we achieved it, and the landscape of the point cloud benchmark datasets.
 If you use this dataset please cite either:
 
-1. The paper
+1. The paper [[ISPRS](https://isprs-archives.copernicus.org/articles/XLVI-2-W1-2022/529/2022/isprs-archives-XLVI-2-W1-2022-529-2022.html)] [[preprint](https://arxiv.org/abs/2304.07140)]
 
 ```plain
 @article{wysockiTUMFACADE,
