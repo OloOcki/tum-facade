@@ -1,4 +1,4 @@
-# :cityscape: TUM - FAÇADE :cityscape:
+# :cityscape: TUM-FAÇADE :cityscape:
 **Benchmark for semantic façade segmentation on MLS point clouds** 
 <p align="left">
     <img src="https://github.com/OloOcki/tum-facade/blob/main/img/tumfacade_logo.png" width="15%" title="logo"/>
