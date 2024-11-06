@@ -1,5 +1,8 @@
 # :cityscape: TUM-FAÇADE :cityscape:
 **Benchmark for semantic façade segmentation on MLS point clouds** 
+
+## :star2: **Check out our newest dataset "ZAHA" on facade semantic segmentation** [here](https://github.com/OloOcki/zaha/tree/main) **
+
 <p align="left">
     <img src="https://github.com/OloOcki/tum-facade/blob/main/img/tumfacade_logo.png" width="15%" title="logo"/>
 </p>
@@ -31,47 +34,47 @@
 
 #### Overview
 <p align="center">
-    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/overview.PNG" width="95%" title="overview"/>
+    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/overview.PNG" width="35%" title="overview"/>
 </p>
 
 #### BLD_22
 <p align="center">
-    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID22.PNG" width="95%" title="building id ...22"/>
+    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID22.PNG" width="35%" title="building id ...22"/>
 </p>
 
 #### BLD_23
 <p align="center">
-    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID23.png" width="95%" title="building id ...23"/>
+    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID23.png" width="35%" title="building id ...23"/>
 </p>
 
 #### BLD_60
 <p align="center">
-    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID60.PNG" width="95%" title="building id ...60"/>
+    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID60.PNG" width="35%" title="building id ...60"/>
 </p>
 
 #### BLD_62
 <p align="center">
-    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID62.PNG" width="95%" title="building id ...62"/>
+    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID62.PNG" width="35%" title="building id ...62"/>
 </p>
 
 #### BLD_81
 <p align="center">
-    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID81_a.PNG" width="95%" title="building id ...81"/>
+    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID81_a.PNG" width="35%" title="building id ...81"/>
 </p>
 
 #### BLD_58
 <p align="center">
-    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID58.png" width="95%" title="building id ...58"/>
+    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID58.png" width="35%" title="building id ...58"/>
 </p>
 
 #### BLD_59
 <p align="center">
-    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID59.png" width="95%" title="building id ...59"/>
+    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID59.png" width="35%" title="building id ...59"/>
 </p>
 
 #### BLD_57
 <p align="center">
-    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID57.PNG" width="95%" title="building id ...57"/>
+    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/bldID57.PNG" width="35%" title="building id ...57"/>
 </p>
 
 ## :construction_worker: Build-upon the dataset
