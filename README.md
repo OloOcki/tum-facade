@@ -1,7 +1,7 @@
 # :cityscape: TUM-FAÇADE :cityscape:
 **Benchmark for semantic façade segmentation on MLS point clouds** 
 
-## :star2: **Check out our newest dataset "ZAHA" on facade semantic segmentation** [here](https://github.com/OloOcki/zaha/tree/main) **
+## :star2: **Check out our newest dataset "ZAHA" on facade semantic segmentation** [here](https://github.com/OloOcki/zaha/tree/main)
 
 <p align="left">
     <img src="https://github.com/OloOcki/tum-facade/blob/main/img/tumfacade_logo.png" width="15%" title="logo"/>
