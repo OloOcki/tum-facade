@@ -34,7 +34,7 @@
 
 #### Overview
 <p align="center">
-    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/overview.PNG" width="35%" title="overview"/>
+    <img src="https://github.com/OloOcki/tum-facade/blob/main/img/bldImg/overview.PNG" width="95%" title="overview"/>
 </p>
 
 #### BLD_22
